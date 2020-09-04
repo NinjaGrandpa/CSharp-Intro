@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Runtime.CompilerServices;
 
 namespace HelloWorld
 {
@@ -18,7 +19,13 @@ namespace HelloWorld
             var mathMax = 0;
             var myDay = 0;
             var weekEnd = true;
-            
+            var favDay = "";
+
+            for (int i = 0; i < 2; i++)
+            {
+                Console.WriteLine("Hello,");
+            }
+            Console.WriteLine("Hello!");
 
             Console.WriteLine("Enter your name:");
             myName = Console.ReadLine();
@@ -73,24 +80,26 @@ namespace HelloWorld
                         Console.WriteLine(myName + ", What is your favourite weekend? Write the number of the day.");
                         Console.WriteLine("1) Saturday");
                         Console.WriteLine("2) Sunday");
-                        Console.WriteLine("3) ¤¤¤¤¤¤");
 
                         myDay = Convert.ToInt32(Console.ReadLine());
                         switch (myDay)
                         {
                             case 1:
                                 weekEnd = false;
+                                favDay = "Saturday";
                                 break;
 
                             case 2:
                                 weekEnd = false;
-                                break;
-
-                            defaults
-                                Console.WriteLine("¤");
+                                favDay = "Sunday";
                                 break;
                         }
                     }
+
+                    Console.WriteLine("So your favourite day is " + favDay + "! Cool." );
+                    Console.WriteLine("See you later!");
+
+
                 }
 
                 else

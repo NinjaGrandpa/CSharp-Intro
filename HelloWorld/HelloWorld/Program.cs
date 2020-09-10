@@ -8,6 +8,7 @@ namespace HelloWorld
 
         static void Main(string[] args)
         {
+            string[] names = new string[5];
             var myAge = 0;
             var myName = "";
             var mySentience = false;
@@ -29,8 +30,25 @@ namespace HelloWorld
 
             Console.WriteLine("Enter your name:");
             myName = Console.ReadLine();
+            names[0] = myName;
             Console.Clear();
             Console.WriteLine("Welcome " + myName + "!");
+
+            Console.WriteLine("Please enter the names of four of you friends!");
+            for (int i = 0; i < 4; i++)
+            {
+                names[i] = Console.ReadLine();
+            }
+
+            Console.Write("So the friends you have chosen are ");
+            for (int i = 0; i < 5; i++)
+            {
+                Console.Write(names[i]);
+                Console.Write(", ");
+            }
+
+            Console.Clear();
+            Console.WriteLine("");
 
             Console.WriteLine("Enter your age:");
             myAge = Convert.ToInt32(Console.ReadLine());

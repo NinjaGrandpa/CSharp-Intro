@@ -24,3 +24,16 @@ C:\Users\Max\source\repos\NinjaGrandpa\CSharp-Intro\HelloWorld\HelloWorld\bin\De
 C:\Users\Max\source\repos\NinjaGrandpa\CSharp-Intro\HelloWorld\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.dll
 C:\Users\Max\source\repos\NinjaGrandpa\CSharp-Intro\HelloWorld\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.pdb
 C:\Users\Max\source\repos\NinjaGrandpa\CSharp-Intro\HelloWorld\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.genruntimeconfig.cache
+C:\Users\Max\Documents\GitHub\CSharp-Intro\HelloWorld\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.exe
+C:\Users\Max\Documents\GitHub\CSharp-Intro\HelloWorld\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.deps.json
+C:\Users\Max\Documents\GitHub\CSharp-Intro\HelloWorld\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.runtimeconfig.json
+C:\Users\Max\Documents\GitHub\CSharp-Intro\HelloWorld\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.runtimeconfig.dev.json
+C:\Users\Max\Documents\GitHub\CSharp-Intro\HelloWorld\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.dll
+C:\Users\Max\Documents\GitHub\CSharp-Intro\HelloWorld\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.pdb
+C:\Users\Max\Documents\GitHub\CSharp-Intro\HelloWorld\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.csprojAssemblyReference.cache
+C:\Users\Max\Documents\GitHub\CSharp-Intro\HelloWorld\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.AssemblyInfoInputs.cache
+C:\Users\Max\Documents\GitHub\CSharp-Intro\HelloWorld\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.AssemblyInfo.cs
+C:\Users\Max\Documents\GitHub\CSharp-Intro\HelloWorld\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\Max\Documents\GitHub\CSharp-Intro\HelloWorld\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.dll
+C:\Users\Max\Documents\GitHub\CSharp-Intro\HelloWorld\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.pdb
+C:\Users\Max\Documents\GitHub\CSharp-Intro\HelloWorld\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.genruntimeconfig.cache

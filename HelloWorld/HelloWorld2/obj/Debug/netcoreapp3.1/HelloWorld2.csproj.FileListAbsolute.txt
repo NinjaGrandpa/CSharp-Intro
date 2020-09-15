@@ -1,0 +1,13 @@
+C:\Users\max.jenslov\Documents\GitHub\CSharp-Intro\HelloWorld\HelloWorld2\bin\Debug\netcoreapp3.1\HelloWorld2.exe
+C:\Users\max.jenslov\Documents\GitHub\CSharp-Intro\HelloWorld\HelloWorld2\bin\Debug\netcoreapp3.1\HelloWorld2.deps.json
+C:\Users\max.jenslov\Documents\GitHub\CSharp-Intro\HelloWorld\HelloWorld2\bin\Debug\netcoreapp3.1\HelloWorld2.runtimeconfig.json
+C:\Users\max.jenslov\Documents\GitHub\CSharp-Intro\HelloWorld\HelloWorld2\bin\Debug\netcoreapp3.1\HelloWorld2.runtimeconfig.dev.json
+C:\Users\max.jenslov\Documents\GitHub\CSharp-Intro\HelloWorld\HelloWorld2\bin\Debug\netcoreapp3.1\HelloWorld2.dll
+C:\Users\max.jenslov\Documents\GitHub\CSharp-Intro\HelloWorld\HelloWorld2\bin\Debug\netcoreapp3.1\HelloWorld2.pdb
+C:\Users\max.jenslov\Documents\GitHub\CSharp-Intro\HelloWorld\HelloWorld2\obj\Debug\netcoreapp3.1\HelloWorld2.AssemblyInfoInputs.cache
+C:\Users\max.jenslov\Documents\GitHub\CSharp-Intro\HelloWorld\HelloWorld2\obj\Debug\netcoreapp3.1\HelloWorld2.AssemblyInfo.cs
+C:\Users\max.jenslov\Documents\GitHub\CSharp-Intro\HelloWorld\HelloWorld2\obj\Debug\netcoreapp3.1\HelloWorld2.csproj.CoreCompileInputs.cache
+C:\Users\max.jenslov\Documents\GitHub\CSharp-Intro\HelloWorld\HelloWorld2\obj\Debug\netcoreapp3.1\HelloWorld2.dll
+C:\Users\max.jenslov\Documents\GitHub\CSharp-Intro\HelloWorld\HelloWorld2\obj\Debug\netcoreapp3.1\HelloWorld2.pdb
+C:\Users\max.jenslov\Documents\GitHub\CSharp-Intro\HelloWorld\HelloWorld2\obj\Debug\netcoreapp3.1\HelloWorld2.genruntimeconfig.cache
+C:\Users\max.jenslov\Documents\GitHub\CSharp-Intro\HelloWorld\HelloWorld2\obj\Debug\netcoreapp3.1\HelloWorld2.csprojAssemblyReference.cache

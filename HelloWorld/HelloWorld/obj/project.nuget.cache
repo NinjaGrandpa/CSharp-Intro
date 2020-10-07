@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3eHvBbpUTOlRtOUESbsQ+IDcIEb1E5Vx+bUW3gNY0eSkyfKGUSNXHxkWuTxjbTZN0ObIxSyoRNUG1L6btxEhCA==",
+  "dgSpecHash": "6zNhjPtRCP2Sy0ecBPME0NLE/P4HobdcIrYYF0zGzjBotLlFv3NUuJ8QEPOePRf7LmBBs7AnX/yG81BcC+p73A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\max.jenslov\\Documents\\GitHub\\CSharp-Intro\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
+  "projectFilePath": "C:\\Users\\Max\\Documents\\GitHub\\CSharp-Intro\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

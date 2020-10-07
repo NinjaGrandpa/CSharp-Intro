@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\max.jenslov\\Documents\\GitHub\\CSharp-Intro\\HelloWorld\\HelloWorld2\\HelloWorld2.csproj": {}
+    "C:\\Users\\Max\\Documents\\GitHub\\CSharp-Intro\\HelloWorld\\HelloWorld2\\HelloWorld2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\max.jenslov\\Documents\\GitHub\\CSharp-Intro\\HelloWorld\\HelloWorld2\\HelloWorld2.csproj": {
+    "C:\\Users\\Max\\Documents\\GitHub\\CSharp-Intro\\HelloWorld\\HelloWorld2\\HelloWorld2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\max.jenslov\\Documents\\GitHub\\CSharp-Intro\\HelloWorld\\HelloWorld2\\HelloWorld2.csproj",
+        "projectUniqueName": "C:\\Users\\Max\\Documents\\GitHub\\CSharp-Intro\\HelloWorld\\HelloWorld2\\HelloWorld2.csproj",
         "projectName": "HelloWorld2",
-        "projectPath": "C:\\Users\\max.jenslov\\Documents\\GitHub\\CSharp-Intro\\HelloWorld\\HelloWorld2\\HelloWorld2.csproj",
-        "packagesPath": "C:\\Users\\max.jenslov\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\max.jenslov\\Documents\\GitHub\\CSharp-Intro\\HelloWorld\\HelloWorld2\\obj\\",
+        "projectPath": "C:\\Users\\Max\\Documents\\GitHub\\CSharp-Intro\\HelloWorld\\HelloWorld2\\HelloWorld2.csproj",
+        "packagesPath": "C:\\Users\\Max\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Max\\Documents\\GitHub\\CSharp-Intro\\HelloWorld\\HelloWorld2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\max.jenslov\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Max\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

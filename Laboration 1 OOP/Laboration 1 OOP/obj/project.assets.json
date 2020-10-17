@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\max.jenslov\\.nuget\\packages\\": {}
+    "C:\\Users\\Max\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\max.jenslov\\Documents\\GitHub\\CSharp-Intro\\Laboration 1 OOP\\Laboration 1 OOP\\Laboration 1 OOP.csproj",
+      "projectUniqueName": "C:\\Users\\Max\\Documents\\GitHub\\CSharp-Intro\\Laboration 1 OOP\\Laboration 1 OOP\\Laboration 1 OOP.csproj",
       "projectName": "Laboration 1 OOP",
-      "projectPath": "C:\\Users\\max.jenslov\\Documents\\GitHub\\CSharp-Intro\\Laboration 1 OOP\\Laboration 1 OOP\\Laboration 1 OOP.csproj",
-      "packagesPath": "C:\\Users\\max.jenslov\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\max.jenslov\\Documents\\GitHub\\CSharp-Intro\\Laboration 1 OOP\\Laboration 1 OOP\\obj\\",
+      "projectPath": "C:\\Users\\Max\\Documents\\GitHub\\CSharp-Intro\\Laboration 1 OOP\\Laboration 1 OOP\\Laboration 1 OOP.csproj",
+      "packagesPath": "C:\\Users\\Max\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Max\\Documents\\GitHub\\CSharp-Intro\\Laboration 1 OOP\\Laboration 1 OOP\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\max.jenslov\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Max\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
